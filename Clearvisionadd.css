@@ -1,1 +1,15 @@
-.leading_3zSH5d::before{content:"Theme by Dizi"!important;color:#ff4866!important;font-weight:700!important;font-size:14px!important;text-shadow:0 0 8px rgba(255,72,102,0.5)!important;margin-right:8px!important}.leading_3zSH5d::after{content:"V1"!important;color:rgba(255,255,255,0.5)!important;font-size:12px!important;font-weight:400!important}
+.leading_3zSH5d::before {
+    content: "Theme by Dizi" !important;
+    color: #ff4866 !important;
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    text-shadow: 0 0 8px rgba(255, 72, 102, 0.5) !important;
+    margin-right: 8px !important;
+}
+
+.leading_3zSH5d::after {
+    content: "V1" !important;
+    color: rgba(255, 255, 255, 0.5) !important;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+}
